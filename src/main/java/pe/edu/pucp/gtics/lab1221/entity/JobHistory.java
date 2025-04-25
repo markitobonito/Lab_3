@@ -9,5 +9,5 @@ import javax.persistence.*;
 @Entity
 
 public class JobHistory {
-    
+
 }
